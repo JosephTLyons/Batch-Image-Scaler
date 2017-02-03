@@ -9,3 +9,4 @@ sips -Z $maxSize *.bmp
 sips -Z $maxSize *.jpg
 sips -Z $maxSize *.jpeg
 sips -Z $maxSize *.png
+sips -Z $maxSize *.tiff
